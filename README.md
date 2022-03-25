@@ -19,14 +19,8 @@
 |-|-|
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=t104360088&hide_border=true&theme=react-dark)
-
-
-
-
-
-
+<!-- ### 📈 GitHub Activity Graph
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=t104360088&hide_border=true&theme=react-dark) -->
 
 
 <!--
