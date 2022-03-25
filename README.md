@@ -9,6 +9,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&width=600&duration=3000&lines=You+can+call+me+Joe;I'm+good+at+developing+Android+and+iOS+applications+;and+have+some+knowledge+about+Web+and+Server;Over+4+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
+- I have developed apps with over 350,000 downloads => [iTalkuTalk Android](https://play.google.com/store/apps/details?id=lab.italkutalk&hl=zh_TW&gl=US)、[iTalkuTalk iOS](https://apps.apple.com/tw/app/italkutalk-%E7%9C%8B%E5%BD%B1%E7%89%87-ai%E5%8F%A3%E8%AA%9E%E7%B7%B4%E7%BF%92/id1263409577)
+- I have published two books on [Android](https://www.tenlong.com.tw/products/9789864345724?list_name=lv) and [MongoDB](https://www.tenlong.com.tw/products/9789864347988?list_name=lv) development
+- My [Master's thesis](https://hdl.handle.net/11296/7hg3zb) is to study WebRTC technology and establish a complete call flow and improve the call experience
+
 <p align="center">
     <a href="https://github.com/t104360088">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pranav Masekar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=t104360088&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
